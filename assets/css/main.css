@@ -204,6 +204,10 @@ section {
   .section-header span {
     font-size: 38px;
   }
+  .logomyk{
+    position: relative;
+    top:-10px;
+  }
 }
 
 /*--------------------------------------------------------------
