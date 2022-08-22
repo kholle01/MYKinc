@@ -158,6 +158,43 @@ section {
   position: relative;
   top: 150px;
 }
+.service{
+  font-size: 25px !important;
+}
+.termes{
+  margin-left: 5px;
+}
+.icns{
+  width: 45px;
+  padding: 5px;
+}
+.renum0{
+  font-size: 30px;
+}
+.st0{
+  font-size: 20px;
+}
+.renum{
+  color: white;
+  background-color: rgba(15, 68, 138, 0.7);
+  padding: 10px;
+  margin-top: 100x;
+  
+}
+.desc{
+  display: block;
+  align-items: center;
+  width: 1000px;
+  margin-left: -250px !important;
+}
+.links{
+  color: white;
+}
+.links:hover{
+  color: #0d42ff;
+  text-decoration: underline ;
+}
+
 @media (max-width: 640px) {
   .section-header h2 {
     font-size: 28px;
@@ -338,6 +375,10 @@ section {
 @media screen and (max-width: 768px) {
   [data-aos-delay] {
     transition-delay: 0 !important;
+  }
+  .logomyk{
+    position: relative;
+    top: -10px;
   }
 }
 
