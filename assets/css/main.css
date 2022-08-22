@@ -377,7 +377,8 @@ section {
     transition-delay: 0 !important;
   }
   .logomyk{
-    display:none;
+    position: relative;
+    top: -10px;
   }
 }
 
